@@ -52,4 +52,4 @@ I'm Christian, mechanical engineer from 🇩🇪 East Frisia, Germany
 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
 ![Ubuntu](https://img.shields.io/static/v1?label=%20&style=flat-square&logo=ubuntu&logoColor=white&message=Ubuntu&color=b43c12)
-![Cloudflare](https://img.shields.io/static/v1?label=%20&style=flat-square&logo=clooudflare&logoColor=white&message=Cloudflare&color=f48120)
+![Cloudflare](https://img.shields.io/static/v1?label=%20&style=flat-square&logo=cloudflare&logoColor=white&message=Cloudflare&color=f48120)
