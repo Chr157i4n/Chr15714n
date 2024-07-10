@@ -1,7 +1,7 @@
 # Moin, nice to see you
 
 Welcome to my page!  
-I'm Christian, mechanical engineer from 🇩🇪 East Frisia, Germany
+I'm Christian, mechanical/software engineer from 🇩🇪 East Frisia, Germany
 
 ### Mechanical Engineering
 ![Autodesk Inventor](https://img.shields.io/static/v1?label=%20&style=flat-square&logo=autodesk&logoColor=white&message=Inventor&color=black)
